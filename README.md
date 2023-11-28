@@ -15,3 +15,4 @@ A page replacement algorithm is needed to decide which page needs to be replaced
 - Clone the repository
 - Install the dependencies
 - Run the index.html file in the browser
+- Now has php for CRUD on the results so requires PHP to run the api, so install php and host the app on localhost
